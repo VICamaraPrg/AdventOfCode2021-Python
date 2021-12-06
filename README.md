@@ -49,5 +49,19 @@
     <td>31003</td>
     <td>11:16:45</td>
     <td>31183</td>
+  </tr>
+  <tr>
+    <td>Day 5</td>
+    <td>> 24h</td>
+    <td>-</td>
+    <td>> 24h</td>
+    <td>-</td>
+  </tr> 
+  <tr>
+    <td>Day 6</td>
+    <td>07:26:04</td>
+    <td>34373</td>
+    <td>08:06:17</td>
+    <td>28620</td>
   </tr> 
 </table>
